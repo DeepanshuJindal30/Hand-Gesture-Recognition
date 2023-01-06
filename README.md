@@ -1,4 +1,4 @@
-# Stone-Paper-Scissor-
+# Hand Gesture Recognition ✊✋✌️
 
 The code imports the necessary libraries for image processing (OpenCV) and hand detection (MediaPipe).
 
